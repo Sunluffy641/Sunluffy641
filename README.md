@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunluffy641
+- 👋 Hi, I’m @DungSOICT
 - 👀 I’m interested in math and technology
 - 🌱 I’m currently learning HaNOI university of science and technology
 - 💞️ I’m looking to collaborate on ...
